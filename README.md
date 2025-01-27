@@ -1,6 +1,4 @@
-## Hi there 👋
-### It´s exciting for me this world full of mysteries, riddles and emotions that programming represents is exciting.
-<!--
+## Hi there 👋<!--
 **JulianPedraza581/JulianPedraza581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
